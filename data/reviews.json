@@ -1,0 +1,435 @@
+{
+  "B0DJGCX6Q2": {
+    "description": "Un reproductor compacte per donar accés a aplicacions de vídeo a un televisor amb HDMI. El model enllaçat ofereix Full HD i Wi-Fi 6: té sentit en una pantalla de 1080p o com a dispositiu secundari, però desaprofita un televisor 4K.",
+    "pros": [
+      "Accés a moltes aplicacions de streaming des del mateix comandament.",
+      "Format petit i alimentació directa des del televisor compatible."
+    ],
+    "cons": [
+      "La resolució màxima és Full HD: no reprodueix en 4K.",
+      "Alguns continguts requereixen subscripció; depèn de l’ecosistema Fire TV."
+    ],
+    "verdict": "Bona opció per a un televisor Full HD; compara un model 4K si la pantalla ho permet.",
+    "criteria": [
+      9,
+      7,
+      8,
+      7
+    ]
+  },
+  "B07MLFBJG3": {
+    "description": "Quaranta piles AA alcalines d’1,5 V per tenir recanvis en comandaments, rellotges o joguines compatibles. El format gran resulta pràctic si realment les consumeixes; per a ús molt freqüent convé comparar l’alternativa recarregable.",
+    "pros": [
+      "Paquet gran per centralitzar els recanvis de diversos aparells.",
+      "Format AA d’1,5 V àmpliament utilitzat."
+    ],
+    "cons": [
+      "No són recarregables: cada substitució genera residus i un nou cost.",
+      "Quaranta unitats poden ser massa si en gastes poques."
+    ],
+    "verdict": "Útil com a reserva domèstica; per a aparells d’ús intensiu, valora piles recarregables compatibles.",
+    "criteria": [
+      8,
+      7,
+      8,
+      6
+    ]
+  },
+  "B095CLQ1PT": {
+    "description": "Càmera orientable d’interior amb imatge 2K/3 MP, àudio bidireccional i alertes de moviment. Permet triar entre enregistrament local i núvol. Algunes funcions depenen d’actualitzar el firmware amb l’aplicació Tapo.",
+    "pros": [
+      "Orientació motoritzada i resolució 2K per cobrir diferents zones.",
+      "Enregistrament local en microSD com a alternativa al núvol."
+    ],
+    "cons": [
+      "Només admet Wi-Fi de 2,4 GHz i està pensada per a interior.",
+      "La microSD no s’inclou i el servei de núvol pot comportar una quota."
+    ],
+    "verdict": "Versàtil per supervisar una habitació; revisa on guardaràs els vídeos i la privacitat de l’espai.",
+    "criteria": [
+      9,
+      9,
+      8,
+      7
+    ]
+  },
+  "B07MLDJF3B": {
+    "description": "Un paquet de quaranta piles AAA alcalines per a petits dispositius d’1,5 V. Resol la manca de recanvis en diversos aparells, però la quantitat no garanteix que sigui la compra més econòmica: cal mirar el cost per unitat.",
+    "pros": [
+      "Reserva abundant per a diversos dispositius AAA.",
+      "No necessiten carregador per començar a utilitzar-les."
+    ],
+    "cons": [
+      "Són d’un sol ús i s’han de portar a recollida de piles.",
+      "No serveixen per a aparells que requereixen el format AA."
+    ],
+    "verdict": "Pràctiques per a recanvis ocasionals; compara el cost per pila amb altres paquets.",
+    "criteria": [
+      8,
+      7,
+      7,
+      6
+    ]
+  },
+  "B00LH3DMUO": {
+    "description": "Trenta-sis piles AAA alcalines amb una vida d’emmagatzematge anunciada de fins a deu anys. Aquesta xifra es refereix a conservar-les sense ús, no a deu anys funcionant dins un dispositiu.",
+    "pros": [
+      "Format gran per a llars amb diversos aparells AAA.",
+      "Vida d’emmagatzematge anunciada llarga per guardar recanvis."
+    ],
+    "cons": [
+      "No es poden recarregar.",
+      "La durada real en servei varia molt segons l’aparell i el consum."
+    ],
+    "verdict": "Interessen com a estoc de recanvis, sempre que el preu per unitat compensi.",
+    "criteria": [
+      8,
+      8,
+      7,
+      6
+    ]
+  },
+  "B01D4YVY80": {
+    "description": "Ventilador de peu de 50 W amb aspes de 40 cm, tres velocitats i altura regulable. La seva proposta és directa: moure aire cap a la zona on ets sense instal·lació fixa, amb una base que necessita espai a terra.",
+    "pros": [
+      "Altura i orientació ajustables per dirigir l’aire.",
+      "Tres velocitats i oscil·lació per adaptar la ventilació."
+    ],
+    "cons": [
+      "Mou l’aire però no redueix la temperatura com un aire condicionat.",
+      "La base ocupa espai i cal connectar-lo a un endoll."
+    ],
+    "verdict": "Adequat si busques ventilació bàsica i regulable, sense necessitat de climatitzar l’estança.",
+    "criteria": [
+      8,
+      7,
+      8,
+      7
+    ],
+    "source": "https://orbegozo.com/productos/ventilacion/ventiladores-de-pie/ventilador-de-pie-sf-0147/"
+  },
+  "B07RSCK4XS": {
+    "description": "Dotze bosses al buit de quatre mides per reduir el volum de roba i tèxtils guardats. Són especialment útils per canvis de temporada; si has d’accedir a la roba cada dia, haver de tornar a fer el buit les fa menys pràctiques.",
+    "pros": [
+      "Quatre mides per separar peces petites i tèxtils voluminosos.",
+      "Compatibles amb aspirador; la fitxa també indica una bomba manual."
+    ],
+    "cons": [
+      "Cal tancar bé la cremallera i la vàlvula per mantenir el buit.",
+      "Recuperar una peça implica obrir la bossa i repetir el procés."
+    ],
+    "verdict": "Bona idea per a emmagatzematge estacional; menys còmoda per a roba d’ús diari.",
+    "criteria": [
+      9,
+      8,
+      8,
+      7
+    ]
+  },
+  "B09HV438VV": {
+    "description": "Quatre recipients baixos i apilables per ordenar embotits o aliments plans a la nevera. Mesuren 17 × 3,2 × 25,2 cm, amb tapa extraïble: aprofiten l’altura, però aquesta mateixa poca fondària limita els aliments que hi caben.",
+    "pros": [
+      "Disseny apilable per ordenar la nevera.",
+      "Aptes per a rentaplats, congelador i microones segons la fitxa."
+    ],
+    "cons": [
+      "La poca altura limita peces gruixudes o racions voluminoses.",
+      "Ocupen una superfície de 17 × 25,2 cm: comprova els prestatges."
+    ],
+    "verdict": "Molt pràctics per a llesques i aliments plans; busca un recipient més alt per a altres usos.",
+    "criteria": [
+      9,
+      8,
+      7,
+      8
+    ]
+  },
+  "B092HZ59NF": {
+    "description": "Ventilador de peu de 40 W i 40 cm de diàmetre, amb tres velocitats, oscil·lació i altura de 110 a 130 cm. És una solució de ventilació regulable. El nom EnergySilence no substitueix una mesura independent del soroll.",
+    "pros": [
+      "Tres velocitats i altura regulable per adaptar el flux d’aire.",
+      "Oscil·lació automàtica per repartir la ventilació."
+    ],
+    "cons": [
+      "No refreda l’aire de l’habitació com un aire condicionat.",
+      "No hem comprovat el soroll real: no el podem qualificar de silenciós."
+    ],
+    "verdict": "Una opció funcional per moure aire; si el vols per dormir, comprova el nivell sonor abans de comprar.",
+    "criteria": [
+      8,
+      8,
+      8,
+      7
+    ]
+  },
+  "B0BPZHKY25": {
+    "description": "Aire condicionat portàtil de 7.000 BTU, amb comandament, rodes i kit de finestra. La marca anuncia cobertura d’uns 15–20 m² segons l’estança. Aquí sí que hi ha refrigeració, però cal instal·lar la sortida d’aire calent.",
+    "pros": [
+      "Refrigera i inclou kit de finestra i comandament.",
+      "Rodes i diferents modes per canviar d’ubicació i ús."
+    ],
+    "cons": [
+      "Necessita un tub cap a l’exterior i una finestra ben adaptada.",
+      "La cobertura depèn de l’aïllament, el sol i la geometria; no hem mesurat el soroll."
+    ],
+    "verdict": "Pot encaixar en una estança petita sense instal·lació fixa; comprova la finestra i el consum indicat.",
+    "criteria": [
+      8,
+      7,
+      7,
+      6
+    ]
+  },
+  "B0CP32JG8B": {
+    "description": "Lector de llibres de sis polzades, 16 GB i llum frontal ajustable. Prioritza lectura sense notificacions i un format compacte. La pantalla petita resulta menys indicada per a PDF amb maquetació fixa o còmics que necessiten detall.",
+    "pros": [
+      "Pantalla antireflectant i llum regulable per llegir.",
+      "Format compacte i emmagatzematge per a una biblioteca de llibres digitals."
+    ],
+    "cons": [
+      "Sis polzades poden quedar curtes per a PDF i contingut molt gràfic.",
+      "No substitueix una tauleta per a aplicacions o vídeo."
+    ],
+    "verdict": "Un bon encaix per llegir novel·les i portar-lo a sobre; per a documents grans, busca més pantalla.",
+    "criteria": [
+      9,
+      8,
+      7,
+      8
+    ]
+  },
+  "B0CP31JRLK": {
+    "description": "La mateixa proposta del Kindle de sis polzades i 16 GB, en acabat verd matcha. El canvi és estètic: no obtens més velocitat ni millor pantalla pel color. Tria segons disponibilitat i preu final de la variant.",
+    "pros": [
+      "Lectura sense reflexos amb llum frontal regulable.",
+      "Mateixa capacitat i format compacte que la variant negra."
+    ],
+    "cons": [
+      "El color no aporta cap avantatge funcional respecte del negre.",
+      "La pantalla de sis polzades limita documents de format gran."
+    ],
+    "verdict": "Tria’l si prefereixes el color; no pagaria un sobrepreu important només per l’acabat.",
+    "criteria": [
+      9,
+      8,
+      7,
+      8
+    ]
+  },
+  "B0CFPWLGF2": {
+    "description": "El Paperwhite puja a set polzades i permet ajustar la llum de blanca a càlida. La resistència a l’aigua afegeix flexibilitat d’ús. A canvi, és menys compacte que el Kindle bàsic: té sentit si valores sobretot la lectura prolongada.",
+    "pros": [
+      "Pantalla de set polzades i llum càlida ajustable.",
+      "Resistència a l’aigua anunciada pel fabricant."
+    ],
+    "cons": [
+      "És més voluminós que un lector de sis polzades.",
+      "Continua sent un lector, no una tauleta per a vídeo o aplicacions."
+    ],
+    "verdict": "La proposta més completa d’aquesta selecció per llegir, si et compensen la mida i el preu actual.",
+    "criteria": [
+      9,
+      9,
+      8,
+      8
+    ]
+  },
+  "B09B8X9RGM": {
+    "description": "Altaveu compacte amb Alexa per a música, temporitzadors i control de dispositius compatibles. Integra Wi-Fi i Bluetooth i un botó per desactivar els micròfons. El seu valor depèn de si realment aprofitaràs les funcions de veu i domòtica.",
+    "pros": [
+      "Reuneix assistent, temporitzadors i control domòtic compatible.",
+      "Connexió Bluetooth i botó físic per desactivar micròfons."
+    ],
+    "cons": [
+      "Moltes funcions d’assistent depenen d’Internet i d’un compte.",
+      "Alguns serveis de música i continguts requereixen subscripció."
+    ],
+    "verdict": "Útil si faràs servir Alexa a diari; per escoltar música simplement, compara també altaveus convencionals.",
+    "criteria": [
+      8,
+      8,
+      9,
+      7
+    ]
+  },
+  "B0BFQ9RD5B": {
+    "description": "Sèrum facial bifàsic en esprai de 100 ml, amb trufa blanca, vitamina E i fragància. El format afavoreix una aplicació ràpida, però no tenim proves pròpies que permetin confirmar resultats cosmètics ni justificar un sobrepreu pels ingredients destacats.",
+    "pros": [
+      "Format esprai pràctic per incorporar a la rutina.",
+      "Envàs de 100 ml i fórmula bifàsica amb sèrum i olis."
+    ],
+    "cons": [
+      "Conté perfum: comprova’l si prefereixes fórmules sense fragància.",
+      "Cal agitar-lo; no hem verificat els beneficis ni la tolerància en la teva pell."
+    ],
+    "verdict": "Interessant si busques una bruma bifàsica; prioritza composició i preferències per sobre del reclam de la trufa.",
+    "criteria": [
+      7,
+      7,
+      6,
+      6
+    ]
+  },
+  "B00M9B66BU": {
+    "description": "Tractament capil·lar en esprai sense aclarit que combina condicionament, desenredat i protecció tèrmica anunciada. Simplifica passos, però els «10 beneficis» són afirmacions de la marca: no hem fet una prova comparativa del cabell abans i després.",
+    "pros": [
+      "Combina diverses funcions capil·lars en un mateix producte.",
+      "Sense aclarit i aplicable sobre cabell humit o sec segons instruccions."
+    ],
+    "cons": [
+      "La quantitat adequada depèn del teu tipus i volum de cabell.",
+      "La fragància i la textura poden no encaixar amb totes les preferències."
+    ],
+    "verdict": "Pràctic per simplificar la rutina; ajusta la dosi i comprova si encaixa amb el teu cabell.",
+    "criteria": [
+      8,
+      8,
+      8,
+      7
+    ]
+  },
+  "B06XD38KPB": {
+    "description": "Protector solar facial en bruma de 75 ml, amb SPF50 segons el títol de la fitxa i ús sobre maquillatge anunciat. El format és còmode per portar, però no permet assumir que una passada lleugera equival a aplicar la quantitat indicada a l’envàs.",
+    "pros": [
+      "Format de 75 ml fàcil de portar.",
+      "La marca l’orienta també a reaplicació sobre maquillatge."
+    ],
+    "cons": [
+      "Cal seguir la quantitat i la manera d’aplicació de l’etiqueta.",
+      "El format petit requereix reposicions si l’ús és freqüent."
+    ],
+    "verdict": "Valora’l per la comoditat del format, sense donar per feta la protecció si no segueixes les instruccions.",
+    "criteria": [
+      8,
+      8,
+      7,
+      6
+    ]
+  },
+  "B01MZDLW9B": {
+    "description": "Loció corporal de 300 ml amb efecte autobronzejador gradual. És una opció cosmètica per canviar l’aparença del to de la pell; el resultat dependrà de la pell i de l’aplicació. La fórmula té fragància.",
+    "pros": [
+      "Format de 300 ml per a aplicació corporal.",
+      "Combina el format loció amb un efecte de to gradual anunciat."
+    ],
+    "cons": [
+      "L’aplicació desigual pot donar un acabat irregular.",
+      "L’efecte de color no substitueix un protector solar."
+    ],
+    "verdict": "Encaixa si busques un autobronzejat gradual; no és un producte per protegir-te del sol.",
+    "criteria": [
+      7,
+      7,
+      6,
+      6
+    ]
+  },
+  "B08P4YPB8Q": {
+    "description": "Màscara negra amb raspall cònic flexible, orientada a allargar i donar volum a les pestanyes. És la versió enllaçada de 7,2 ml. L’acabat real dependrà de les capes, la tècnica i les pestanyes: no hem verificat les promeses de resultat.",
+    "pros": [
+      "Raspall cònic flexible per treballar pestanyes de diferents llargades.",
+      "Proposta de longitud i volum en un mateix producte."
+    ],
+    "cons": [
+      "Aquesta fitxa no és la variant waterproof: comprova la versió.",
+      "El resultat i la facilitat de desmaquillatge depenen de l’ús i de la fórmula."
+    ],
+    "verdict": "Una candidata si busques longitud i volum; selecciona explícitament la variant que necessites.",
+    "criteria": [
+      8,
+      8,
+      7,
+      7
+    ]
+  },
+  "B08GTYFC37": {
+    "description": "SSD portàtil d’1 TB amb lectura de fins a 1.050 MB/s anunciada, protecció IP65 i carcassa amb anella. Orientat a portar projectes i arxius sovint. La velocitat màxima requereix un port i un cable adequats; no és una mesura nostra.",
+    "pros": [
+      "Lectura anunciada de fins a 1.050 MB/s i format portàtil.",
+      "Protecció IP65 i anella per transportar-lo."
+    ],
+    "cons": [
+      "Un port lent limita la velocitat encara que compris aquest SSD.",
+      "La protecció física no evita haver de mantenir còpies de seguretat."
+    ],
+    "verdict": "Ben equipat per moure arxius; compara el cost per TB i no el converteixis en l’única còpia.",
+    "criteria": [
+      9,
+      9,
+      8,
+      7
+    ]
+  },
+  "B08HN37XC1": {
+    "description": "La variant de 2 TB del SanDisk Extreme ofereix més capacitat sense canviar la proposta de SSD portàtil, amb lectura anunciada de fins a 1.050 MB/s i protecció IP65. El guany és d’espai, no una promesa de més velocitat que el model d’1 TB.",
+    "pros": [
+      "Dos terabytes per a biblioteques i projectes més grans.",
+      "Protecció IP65 i format fàcil de transportar."
+    ],
+    "cons": [
+      "No és més ràpid només perquè tingui més capacitat.",
+      "Cal valorar el desemborsament actual i conservar una segona còpia."
+    ],
+    "verdict": "Té sentit si aprofitaràs els 2 TB; compara el preu per capacitat amb la variant d’1 TB.",
+    "criteria": [
+      9,
+      9,
+      8,
+      7
+    ]
+  },
+  "B0C5JQ68FY": {
+    "description": "SSD extern d’1 TB amb lectura anunciada de fins a 800 MB/s. És una alternativa per portar documents i còpies sense buscar el màxim de velocitat. No és el mateix producte que la gamma Extreme, encara que comparteixin marca i capacitat.",
+    "pros": [
+      "Un terabyte en format portàtil.",
+      "Lectura anunciada suficient per valorar-lo en trasllats d’arxius quotidians."
+    ],
+    "cons": [
+      "Límit anunciat de lectura inferior al dels models de 1.050 MB/s.",
+      "No s’ha de donar per feta la protecció IP65 de la gamma Extreme."
+    ],
+    "verdict": "Interessant si el preu actual compensa la diferència de prestacions respecte dels altres SSD.",
+    "criteria": [
+      8,
+      7,
+      8,
+      7
+    ]
+  },
+  "B0CGW1FQV4": {
+    "description": "SSD portàtil d’1 TB amb USB-C i lectura anunciada de fins a 1.050 MB/s. La marca declara compatibilitat amb diferents equips i usos de còpia de seguretat. El connector per si sol no garanteix la velocitat: el port també ha de ser compatible.",
+    "pros": [
+      "Connexió USB-C i lectura anunciada de fins a 1.050 MB/s.",
+      "Compatibilitat declarada amb PC, Mac i altres dispositius."
+    ],
+    "cons": [
+      "Cal revisar format de fitxers i compatibilitat segons l’equip.",
+      "La xifra màxima no garanteix el mateix rendiment en totes les transferències."
+    ],
+    "verdict": "Una proposta equilibrada per a arxius i còpies; comprova els ports abans de pagar per velocitat.",
+    "criteria": [
+      9,
+      8,
+      9,
+      7
+    ]
+  },
+  "B087DFFJRD": {
+    "description": "SSD extern de 2 TB amb connexió USB 3.2 de segona generació. Una proposta per ampliar espai i transportar arxius sense portar una unitat mecànica. La fitxa consultada és poc detallada: revisa especialment els cables i el sistema compatible.",
+    "pros": [
+      "Capacitat de 2 TB en una unitat portàtil.",
+      "Interfície USB 3.2 Gen 2 per a equips compatibles."
+    ],
+    "cons": [
+      "Els ports d’entrada més lents limiten les transferències.",
+      "No és un T7 Shield: no li atribuïm protecció reforçada sense verificar-la."
+    ],
+    "verdict": "Candidat per a qui necessita 2 TB; confirma la variant exacta i el contingut de la caixa.",
+    "criteria": [
+      9,
+      8,
+      8,
+      7
+    ]
+  }
+}
