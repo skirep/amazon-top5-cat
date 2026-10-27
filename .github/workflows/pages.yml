@@ -22,7 +22,9 @@ jobs:
         with:
           node-version: '22'
       - name: Check content and prepare static site
-        run: node scripts/check.mjs
+        run: |
+          python3 scripts/check-seo.py
+          node scripts/check.mjs
       - name: Configure Pages
         uses: actions/configure-pages@v5
         with:
